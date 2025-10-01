@@ -1,2 +1,1 @@
-# legacy-templates-and-schemas
-These are old templates and schema files for RFCXML retained for legacy use. See https://authors.ietf.org/en/templates-and-schemas for full details including explanations of each file.
+The contents of this repository have now moved to [https://github.com/ietf-tools/RFCXML](https://github.com/ietf-tools/RFCXML).
